@@ -4,7 +4,7 @@
 
 ## Goal
 
-With help of image processing algoritms and deep learning techniques I try compute images of Figure collections, looking at movie characters and comics images (inputs).
+With help of image processing algoritms and deep learning techniques I try compute images of Figure collections, looking at movies characters and comics images (inputs).
 
 In this notebook you can find the model: [Image recognition](https://github.com/carlosjimenez88M/batman_peacemaker_recognition/blob/master/Object_recognition.ipynb)
 
