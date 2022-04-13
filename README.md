@@ -31,6 +31,6 @@ In this notebook you can find the model: [Image recognition](https://github.com/
 I use three differents convolutional layers to understand pixels connections at differents images and using pooling layers to create subsamples in inputs images in order to reduce the computational memory and limiting risk of overfitting
 
 
-![]()
+![](https://github.com/carlosjimenez88M/batman_peacemaker_recognition/blob/master/train/performance.png?raw=true)
 
 
